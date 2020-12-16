@@ -2,5 +2,5 @@
     $var = 10 + 5;
     $var1 = '10+5';
 
-    echo $var1;
-?>
+    echo $var1;s
+?>sadadad
