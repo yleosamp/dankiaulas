@@ -1,5 +1,6 @@
 <?php
-    $variavel1 = 'Guilherme';
-    $variavel2 = 'João';
-    
+    $var = 10 + 5;
+    $var1 = '10+5';
+
+    echo $var1;
 ?>
