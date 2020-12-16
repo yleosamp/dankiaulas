@@ -1,7 +1,7 @@
 <?php
     //Fazer o código "Dormir" por X segundos.
     sleep(3);
-    echo 'Teste'
+    echo 'Teste';
 
     $nome = 'yleo';
 
