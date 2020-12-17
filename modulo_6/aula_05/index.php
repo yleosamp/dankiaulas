@@ -13,6 +13,5 @@
 <h1>eosguri</h1>
 
 <?php
-
     include('footer.php');
 ?>
